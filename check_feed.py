@@ -1,4 +1,5 @@
-﻿import json
+﻿# Initial test pulling from Citibike data
+import json
 from datetime import datetime, timezone
 from urllib.request import urlopen
 
